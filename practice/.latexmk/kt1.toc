@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Project description}{2}{section.1}%
+\contentsline {section}{\numberline {2}Preliminaries}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Magnitude}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Possible algorithm for finding magnitude}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Magnitude function}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Hybrid manifolds}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Laplace's method}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Conclusions and future work}{4}{section.3}%

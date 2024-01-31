@@ -1,0 +1,174 @@
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian, english]{babel}
+\usepackage[mathcal]{euscript}
+\usepackage{amsmath, amsthm, amsfonts, amssymb, mathtools, yfonts, centernot, gauss, colonequals, physics}
+% \usepackage{dsfonts}  % nice P symbol, but not installed
+
+\newcommand{\NN}{\mathbb{N}}
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\QQ}{\mathbb{Q}}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\CC}{\mathbb{C}}
+
+\newcommand{\caC}{\mathcal{C}}
+\newcommand{\caD}{\mathcal{D}}
+
+\renewcommand{\le}{\leqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\geq}{\geqslant}
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+\DeclarePairedDelimiter\fracpart{\{}{\}}
+
+\DeclarePairedDelimiter\set{\{}{\}}
+
+\newcommand{\qsep}{\mathbin{\scalebox{1.5}{.}}}  % quantifier separator
+
+\DeclareRobustCommand{\divby}{%
+  \mathrel{\vbox{\baselineskip.65ex\lineskiplimit0pt\hbox{.}\hbox{.}\hbox{.}}}%
+}  % is divisible by operator
+\DeclareMathOperator{\rk}{rk}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator{\Image}{Im}
+\DeclareMathOperator{\Id}{Id}
+\DeclareMathOperator{\Dom}{Dom}
+\DeclareMathOperator{\rng}{rng}
+\DeclareMathOperator{\sgn}{sgn}
+\DeclareMathOperator{\St}{St}
+\DeclareMathOperator{\ord}{ord}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\Aut}{Aut}
+\DeclareMathOperator{\arsh}{arsh}
+\DeclareMathOperator{\arch}{arch}
+% НОД и НОК уже есть (\NOD, \NOK)
+\DeclareMathOperator{\LCD}{LCD}
+\DeclareMathOperator{\GCD}{GCD}
+\DeclareMathOperator{\E}{\exists}
+\DeclareMathOperator{\FA}{\forall}
+\newcommand{\EST}[1]{\E #1 \ST}
+\newcommand{\FAQ}[1]{\FA #1 \Q}
+\newcommand{\FAST}[1]{\FA #1 \ST}
+\DeclareMathOperator{\ST}{:}
+\newcommand{\STT}{\;\ifnum\currentgrouptype=16 \middle\fi|\;}
+\DeclareMathOperator{\W}{where}
+\DeclareMathOperator{\with}{with}
+\DeclareMathOperator{\With}{With}
+\newcommand{\Q}{\qsep}
+\newcommand{\I}{\implies}
+
+\newcommand{\tk}{\text{, т.к. }}
+
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newcommand{\impliesnl}{\implies $$ $$ \implies}
+\newcommand{\nl}{$$ $$}
+
+\renewcommand{\f}{\frac}
+
+\newcommand{\stonks}{\nearrow}
+\newcommand{\nstonks}{\searrow}
+
+
+% probability theory
+\newcommand{\PR}[1]{\Pr \qty[ #1 ]}
+\DeclareMathOperator{\probability}{P}
+\renewcommand{\P}[1]{\probability \qty[ #1 ]}
+
+\DeclareMathOperator{\Ind}{\mathbf{I}}
+\newcommand{\ind}[1]{\Ind \qty{ #1 }}
+
+\DeclareMathOperator{\expectancy}{\mathbb{E}}
+\newcommand{\Ex}[1]{\expectancy \qty[ #1 ]}
+
+\DeclareMathOperator{\variance}{\mathbb{D}}
+\newcommand{\Var}[1]{\variance [ #1 ]}
+
+\DeclareMathOperator{\cov}{cov}
+
+\newcommand{\tod}{\xrightarrow{d}}
+\newcommand{\todninf}{\xrightarrow[n \to \infty]{d}}
+\newcommand{\toP}{\xrightarrow{P}}
+\newcommand{\topn}{\xrightarrow{\text{п.н.}}}
+\newcommand{\toL}[1]{\xrightarrow{L^{#1}}}
+
+% O and o
+\newcommand{\oo}{\overline{\overline{o}}\qty}
+\newcommand{\OO}{\underline{\underline{O}}\qty}
+
+\newcommand{\sovok}[1]{\left[ \begin{aligned} #1 \end{aligned} \right. }
+\newcommand*\xor{\oplus}
+\newcommand*\ph{\varphi}
+\newcommand*{\logeq}{\ratio\Leftrightarrow}
+% \newcommand*{\with}{\text{with}}
+% \newcommand*{\With}{\text{With}}
+
+\newcommand*{\relrelbarsep}{.386ex}
+\newcommand*{\relrelbar}{%
+  \mathrel{%
+    \mathpalette\@relrelbar\relrelbarsep
+  }%
+}
+\newcommand*{\@relrelbar}[2]{%
+  \raise#2\hbox to 0pt{$\m@th#1\relbar$\hss}%
+  \lower#2\hbox{$\m@th#1\relbar$}%
+}
+\providecommand*{\rightrightarrowsfill@}{%
+  \arrowfill@\relrelbar\relrelbar\rightrightarrows
+}
+\providecommand*{\xrightrightarrows}[2][]{%
+  \ext@arrow 0359\rightrightarrowsfill@{#1}{#2}%
+}
+\newcommand{\cto}[1]{\xrightarrow[#1]{}}
+\newcommand{\ncto}[1]{\not\cto{#1}}
+\newcommand{\ctoto}[1]{\xrightrightarrows[#1]{}}
+\newcommand{\nctoto}[1]{\not\ctoto{#1}}
+
+
+% theorem styles
+%\theoremstyle{definition}
+%\newtheorem{definition}{Определение}
+%\newtheorem*{solution}{Решение}
+%\newtheorem*{counterexample}{Контрпример}
+%\newtheorem*{consequence}{Следствие}
+
+%\theoremstyle{remark}
+%\newtheorem*{exercise}{Упражнение}
+%\newtheorem*{remark}{Примечание}
+%\newtheorem*{answer}{Ответ}
+%\newtheorem*{hint}{Подсказка}
+%\newtheorem*{statement}{Утверждение}
+
+%\theoremstyle{plain}
+%\newtheorem*{lemma}{Лемма}
+%\newtheorem*{lemma*}{Лемма}
+%\newtheorem{theorem}{Теорема}
+%\newtheorem*{theorem*}{Теорема}
+%\newtheorem*{example*}{Пример}
+%\newtheorem{problem}{Задача}
+%\newtheorem*{problem*}{Задача}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem*{solution}{Solution}
+\newtheorem*{counterexample}{Counterexample}
+\newtheorem*{consequence}{Consequence}
+
+% \theoremstyle{remark}
+% \newtheorem*{exercise}{Exercise}
+\newtheorem*{remark}{Remark}
+% \newtheorem*{answer}{Answer}
+% \newtheorem*{hint}{Hing}
+% \newtheorem*{statement}{Statement}
+
+% \theoremstyle{plain}
+% \newtheorem*{lemma}{Lemma}
+% \newtheorem*{lemma*}{Lemma}
+% \newtheorem{theorem}{Theorem}
+% \newtheorem*{theorem*}{Theorem}
+% \newtheorem*{example*}{Example}
+% \newtheorem{problem}{Problem}
+% \newtheorem*{problem*}{Problem}

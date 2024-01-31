@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is '.latexmk/kt1.blg'
+[32] biber:341> INFO - === Tue Aug 29, 2023, 20:52:24
+[46] Biber.pm:418> INFO - Reading '.latexmk/kt1.bcf'
+[83] Biber.pm:972> INFO - Found 4 citekeys in bib section 0
+[91] Biber.pm:4383> INFO - Processing section 0
+[99] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[100] bibtex.pm:1713> INFO - LaTeX decoding ...
+[107] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[133] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[133] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[133] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[133] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[140] bbl.pm:654> INFO - Writing '.latexmk/kt1.bbl' with encoding 'UTF-8'
+[141] bbl.pm:757> INFO - Output to .latexmk/kt1.bbl
+[141] Biber.pm:130> WARN - legacy month field 'sep' in entry 'Meckes_2012' is not an integer - this will probably not sort properly.
+[141] Biber.pm:130> WARN - legacy month field 'jun' in entry 'Pankrashkin_2011' is not an integer - this will probably not sort properly.
+[141] Biber.pm:130> WARN - BibTeX subsystem: /var/folders/n5/h7lgm2hd3vq6206y7cb2hlvr0000gn/T/biber_tmp_VGog/f4d088b3f9f145b5c3058da33afd57d4_74256.utf8, line 158, warning: possible runaway string started at line 155
+[141] Biber.pm:132> INFO - WARNINGS: 3

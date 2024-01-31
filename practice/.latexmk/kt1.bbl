@@ -1,0 +1,170 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{fedor}{book}{}
+      \name{author}{1}{}{%
+        {{hash=927c6e7d279e11ac49e38d827c12799c}{%
+           family={Fedoruk},
+           familyi={F\bibinitperiod},
+           given={M.V.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{927c6e7d279e11ac49e38d827c12799c}
+      \strng{fullhash}{927c6e7d279e11ac49e38d827c12799c}
+      \strng{bibnamehash}{927c6e7d279e11ac49e38d827c12799c}
+      \strng{authorbibnamehash}{927c6e7d279e11ac49e38d827c12799c}
+      \strng{authornamehash}{927c6e7d279e11ac49e38d827c12799c}
+      \strng{authorfullhash}{927c6e7d279e11ac49e38d827c12799c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Асимптотика: Интегралы и ряды}
+      \field{year}{1987}
+    \endentry
+    \entry{Meckes_2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=78814e661249e1828797ec2f7a1c30bf}{%
+           family={Meckes},
+           familyi={M\bibinitperiod},
+           given={Mark\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{78814e661249e1828797ec2f7a1c30bf}
+      \strng{fullhash}{78814e661249e1828797ec2f7a1c30bf}
+      \strng{bibnamehash}{78814e661249e1828797ec2f7a1c30bf}
+      \strng{authorbibnamehash}{78814e661249e1828797ec2f7a1c30bf}
+      \strng{authornamehash}{78814e661249e1828797ec2f7a1c30bf}
+      \strng{authorfullhash}{78814e661249e1828797ec2f7a1c30bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Positivity}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Positive definite metric spaces}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{pages}{733\bibrangedash 757}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s11117-012-0202-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007%2Fs11117-012-0202-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007%2Fs11117-012-0202-8
+      \endverb
+    \endentry
+    \entry{Pankrashkin_2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c6ac6861b5e6bc2b569d5410469e6d99}{%
+           family={Pankrashkin},
+           familyi={P\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2bef2831eacf47d6463154b003528273}{%
+           family={Roganova},
+           familyi={R\bibinitperiod},
+           given={Svetlana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1265206cbf082fb790c43770be84743d}{%
+           family={Yeganefar},
+           familyi={Y\bibinitperiod},
+           given={Nader},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{516132392132fe45c01a74cb9dde2c91}
+      \strng{fullhash}{516132392132fe45c01a74cb9dde2c91}
+      \strng{bibnamehash}{516132392132fe45c01a74cb9dde2c91}
+      \strng{authorbibnamehash}{516132392132fe45c01a74cb9dde2c91}
+      \strng{authornamehash}{516132392132fe45c01a74cb9dde2c91}
+      \strng{authorfullhash}{516132392132fe45c01a74cb9dde2c91}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Integral Equations and Operator Theory}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Resolvent Expansions on Hybrid Manifolds}
+      \field{volume}{71}
+      \field{year}{2011}
+      \field{pages}{199\bibrangedash 223}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s00020-011-1888-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007%2Fs00020-011-1888-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007%2Fs00020-011-1888-x
+      \endverb
+    \endentry
+    \entry{calc}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4e9c3cc9f518c66e1f09c204b01c99da}{%
+           family={Willerton},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{fullhash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{bibnamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authorbibnamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authornamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authorfullhash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heuristic and computer calculations for the magnitude of metric spaces}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.48550/ARXIV.0910.5500
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/0910.5500
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/0910.5500
+      \endverb
+      \keyw{Metric Geometry (math.MG),Category Theory (math.CT),FOS: Mathematics,FOS: Mathematics}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

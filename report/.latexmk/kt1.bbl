@@ -1,0 +1,239 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{_awniczak_2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5d0702d22ff0c8f645518d66b6fe4e0a}{%
+           family={{Ł}awniczak},
+           familyi={Ł\bibinitperiod},
+           given={Micha{ł}},
+           giveni={M\bibinitperiod}}}%
+        {{hash=14963d5f2febdfc59de3a8b2878a30ab}{%
+           family={Kurasov},
+           familyi={K\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cbf165182b7dbfd25ab68104bbe828f7}{%
+           family={Bauch},
+           familyi={B\bibinitperiod},
+           given={Szymon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=377c6fbd31e26fa8f58d9e86885d1ea7}{%
+           family={Bia{ł}ous},
+           familyi={B\bibinitperiod},
+           given={Ma{ł}gorzata},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a4aecb551c589edff8b37e6af198f6e}{%
+           family={Yunko},
+           familyi={Y\bibinitperiod},
+           given={Vitalii},
+           giveni={V\bibinitperiod}}}%
+        {{hash=81cbf95c3a36df33fec4c3a9c2ae1707}{%
+           family={Sirko},
+           familyi={S\bibinitperiod},
+           given={Leszek},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{9653aff0f5839c0c9bde1ac715a2c43f}
+      \strng{fullhash}{affed055f18cf374eb8f6a30f5452109}
+      \strng{bibnamehash}{9653aff0f5839c0c9bde1ac715a2c43f}
+      \strng{authorbibnamehash}{9653aff0f5839c0c9bde1ac715a2c43f}
+      \strng{authornamehash}{9653aff0f5839c0c9bde1ac715a2c43f}
+      \strng{authorfullhash}{affed055f18cf374eb8f6a30f5452109}
+      \field{sortinit}{Ł}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Hearing Euler characteristic of graphs}
+      \field{volume}{101}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1103/physreve.101.052320
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1103%2Fphysreve.101.052320
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1103%2Fphysreve.101.052320
+      \endverb
+    \endentry
+    \entry{LEINSTER_2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=79486b71b958f01c6bd5db29626646f6}{%
+           family={LEINSTER},
+           familyi={L\bibinitperiod},
+           given={TOM},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press ({CUP})}%
+      }
+      \strng{namehash}{79486b71b958f01c6bd5db29626646f6}
+      \strng{fullhash}{79486b71b958f01c6bd5db29626646f6}
+      \strng{bibnamehash}{79486b71b958f01c6bd5db29626646f6}
+      \strng{authorbibnamehash}{79486b71b958f01c6bd5db29626646f6}
+      \strng{authornamehash}{79486b71b958f01c6bd5db29626646f6}
+      \strng{authorfullhash}{79486b71b958f01c6bd5db29626646f6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Proceedings of the Cambridge Philosophical Society}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{The magnitude of a graph}
+      \field{volume}{166}
+      \field{year}{2017}
+      \field{pages}{247\bibrangedash 264}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1017/s0305004117000810
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1017%2Fs0305004117000810
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1017%2Fs0305004117000810
+      \endverb
+    \endentry
+    \entry{Leinster_2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=82417a4f76230e108804a8ce467246af}{%
+           family={Leinster},
+           familyi={L\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4e9c3cc9f518c66e1f09c204b01c99da}{%
+           family={Willerton},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{c72013a46de9646f08676ee043f6954d}
+      \strng{fullhash}{c72013a46de9646f08676ee043f6954d}
+      \strng{bibnamehash}{c72013a46de9646f08676ee043f6954d}
+      \strng{authorbibnamehash}{c72013a46de9646f08676ee043f6954d}
+      \strng{authornamehash}{c72013a46de9646f08676ee043f6954d}
+      \strng{authorfullhash}{c72013a46de9646f08676ee043f6954d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geometriae Dedicata}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{On the asymptotic magnitude of subsets of Euclidean space}
+      \field{volume}{164}
+      \field{year}{2012}
+      \field{pages}{287\bibrangedash 310}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/s10711-012-9773-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007%2Fs10711-012-9773-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007%2Fs10711-012-9773-6
+      \endverb
+    \endentry
+    \entry{MG1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2b30a5d7843249a50a9d1a77ec3aa40c}{%
+           family={Mugnolo},
+           familyi={M\bibinitperiod},
+           given={Delio},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \strng{fullhash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \strng{bibnamehash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \strng{authorbibnamehash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \strng{authornamehash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \strng{authorfullhash}{2b30a5d7843249a50a9d1a77ec3aa40c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is actually a metric graph?}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1912.07549
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1912.07549
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1912.07549
+      \endverb
+      \keyw{Combinatorics (math.CO),Functional Analysis (math.FA),General Topology (math.GN),FOS: Mathematics,FOS: Mathematics}
+    \endentry
+    \entry{calc}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4e9c3cc9f518c66e1f09c204b01c99da}{%
+           family={Willerton},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{fullhash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{bibnamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authorbibnamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authornamehash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \strng{authorfullhash}{4e9c3cc9f518c66e1f09c204b01c99da}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heuristic and computer calculations for the magnitude of metric spaces}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.48550/ARXIV.0910.5500
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/0910.5500
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/0910.5500
+      \endverb
+      \keyw{Metric Geometry (math.MG),Category Theory (math.CT),FOS: Mathematics,FOS: Mathematics}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

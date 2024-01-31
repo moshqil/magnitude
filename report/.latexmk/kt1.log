@@ -1,0 +1,1468 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/NixOS.org) (preloaded format=pdflatex 1980.1.1)  30 MAY 2023 03:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**kt1.tex
+(./kt1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./header.sty (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 112.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language32
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language10). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language10). Reported on input line 108.
+)) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+)) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks19
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks20
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks28
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip57
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count276
+\l_MT_multwidth_dim=\dimen151
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen152
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen153
+\l_MT_above_intertext_sep=\dimen154
+\l_MT_below_intertext_sep=\dimen155
+\l_MT_above_shortintertext_sep=\dimen156
+\l_MT_below_shortintertext_sep=\dimen157
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen158
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/yfonts/yfonts.sty
+Package: yfonts 2019/04/04 v1.4 (WaS&NP)
+Now handling font encoding LY ...
+... no UTF-8 mapping file for font encoding LY
+Now handling font encoding LYG ...
+... no UTF-8 mapping file for font encoding LYG
+LaTeX Info: Composite with undeclared \" in encoding LYG on input line 58.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/gauss/gauss.sty
+Package: gauss 2003/01/14
+\g@trash=\box53
+\g@matrixbox=\box54
+\g@eastbox=\box55
+\g@northbox=\box56
+\g@label=\box57
+\g@b@tmp=\box58
+\g@b@tmpa=\box59
+\g@b@tmpb=\box60
+\g@maxrow=\count277
+\g@maxcol=\count278
+\g@maxrow@old=\count279
+\g@maxcol@old=\count280
+\g@c@tmp=\count281
+\g@c@tmpa=\count282
+\g@axisHeight=\dimen159
+\g@linethickness=\dimen160
+\g@tab=\dimen161
+\g@arrowht=\dimen162
+\g@arrowwd=\dimen163
+\g@d@tmp=\dimen164
+\g@d@tmpa=\dimen165
+\g@d@tmpb=\dimen166
+\g@d@tmpc=\dimen167
+\g@d@tmpd=\dimen168
+\g@d@tmpe=\dimen169
+\g@loopCount=\count283
+\g@loopEnd=\count284
+\g@loopStep=\count285
+\colarrowsep=\dimen170
+\rowarrowsep=\dimen171
+\opskip=\dimen172
+\labelskip=\dimen173
+\colopminsize=\dimen174
+\rowopminsize=\dimen175
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/oberdiek/colonequals.sty
+Package: colonequals 2016/05/16 v1.1 Colon equals symbols (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/physics/physics.sty
+Package: physics 
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/l3packages/xparse/xparse.sty (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box61
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+))
+\c@definition=\count287
+\c@corollary=\count288
+\c@lemma=\count289
+\c@hypothesis=\count290
+\c@theorem=\count291
+)
+\c@example=\count292
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks30
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen184
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count298
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3128.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count299
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen185
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count300
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip59
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen188
+\Gin@req@width=\dimen189
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count306
+\float@exts=\toks31
+\float@box=\box62
+\@float@everytoks=\toks32
+\@floatcapt=\box63
+)
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks33
+\c@algorithm=\count307
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count308
+\c@ALG@rem=\count309
+\c@ALG@nested=\count310
+\ALG@tlm=\skip60
+\ALG@thistlm=\skip61
+\c@ALG@Lnr=\count311
+\c@ALG@blocknr=\count312
+\c@ALG@storecount=\count313
+\c@ALG@tmpcounter=\count314
+\ALG@tmplength=\skip62
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count315
+)
+\csq@reset=\count316
+\csq@gtype=\count317
+\csq@glevel=\count318
+\csq@qlevel=\count319
+\csq@maxlvl=\count320
+\csq@tshold=\count321
+\csq@ltx@everypar=\toks34
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count322
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count323
+\c@listtotal=\count324
+\c@listcount=\count325
+\c@liststart=\count326
+\c@liststop=\count327
+\c@citecount=\count328
+\c@citetotal=\count329
+\c@multicitecount=\count330
+\c@multicitetotal=\count331
+\c@instcount=\count332
+\c@maxnames=\count333
+\c@minnames=\count334
+\c@maxitems=\count335
+\c@minitems=\count336
+\c@citecounter=\count337
+\c@maxcitecounter=\count338
+\c@savedcitecounter=\count339
+\c@uniquelist=\count340
+\c@uniquename=\count341
+\c@refsection=\count342
+\c@refsegment=\count343
+\c@maxextratitle=\count344
+\c@maxextratitleyear=\count345
+\c@maxextraname=\count346
+\c@maxextradate=\count347
+\c@maxextraalpha=\count348
+\c@abbrvpenalty=\count349
+\c@highnamepenalty=\count350
+\c@lownamepenalty=\count351
+\c@maxparens=\count352
+\c@parenlevel=\count353
+\blx@tempcnta=\count354
+\blx@tempcntb=\count355
+\blx@tempcntc=\count356
+\c@blx@maxsection=\count357
+\c@blx@maxsegment@0=\count358
+\blx@notetype=\count359
+\blx@parenlevel@text=\count360
+\blx@parenlevel@foot=\count361
+\c@blx@sectionciteorder@0=\count362
+\blx@entrysetcounter=\count363
+\blx@biblioinstance=\count364
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language33
+\c@mincomprange=\count365
+\c@maxcomprange=\count366
+\c@mincompwidth=\count367
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count368
+\c@savedafterword=\count369
+\c@annotator=\count370
+\c@savedannotator=\count371
+\c@author=\count372
+\c@savedauthor=\count373
+\c@bookauthor=\count374
+\c@savedbookauthor=\count375
+\c@commentator=\count376
+\c@savedcommentator=\count377
+\c@editor=\count378
+\c@savededitor=\count379
+\c@editora=\count380
+\c@savededitora=\count381
+\c@editorb=\count382
+\c@savededitorb=\count383
+\c@editorc=\count384
+\c@savededitorc=\count385
+\c@foreword=\count386
+\c@savedforeword=\count387
+\c@holder=\count388
+\c@savedholder=\count389
+\c@introduction=\count390
+\c@savedintroduction=\count391
+\c@namea=\count392
+\c@savednamea=\count393
+\c@nameb=\count394
+\c@savednameb=\count395
+\c@namec=\count396
+\c@savednamec=\count397
+\c@translator=\count398
+\c@savedtranslator=\count399
+\c@shortauthor=\count400
+\c@savedshortauthor=\count401
+\c@shorteditor=\count402
+\c@savedshorteditor=\count403
+\c@labelname=\count404
+\c@savedlabelname=\count405
+\c@institution=\count406
+\c@savedinstitution=\count407
+\c@lista=\count408
+\c@savedlista=\count409
+\c@listb=\count410
+\c@savedlistb=\count411
+\c@listc=\count412
+\c@savedlistc=\count413
+\c@listd=\count414
+\c@savedlistd=\count415
+\c@liste=\count416
+\c@savedliste=\count417
+\c@listf=\count418
+\c@savedlistf=\count419
+\c@location=\count420
+\c@savedlocation=\count421
+\c@organization=\count422
+\c@savedorganization=\count423
+\c@origlocation=\count424
+\c@savedoriglocation=\count425
+\c@origpublisher=\count426
+\c@savedorigpublisher=\count427
+\c@publisher=\count428
+\c@savedpublisher=\count429
+\c@language=\count430
+\c@savedlanguage=\count431
+\c@origlanguage=\count432
+\c@savedoriglanguage=\count433
+\c@pageref=\count434
+\c@savedpageref=\count435
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+\locallabelnumberwidth=\skip77
+\locallabelalphawidth=\skip78
+\localshorthandwidth=\skip79
+\localshortjournalwidth=\skip80
+\localshortserieswidth=\skip81
+\localshorttitlewidth=\skip82
+\localshortauthorwidth=\skip83
+\localshorteditorwidth=\skip84
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count436
+\c@textcitetotal=\count437
+\c@textcitemaxnames=\count438
+\c@biburlbigbreakpenalty=\count439
+\c@biburlbreakpenalty=\count440
+\c@biburlnumpenalty=\count441
+\c@biburlucpenalty=\count442
+\c@biburllcpenalty=\count443
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count444
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count445
+\c@bbx:relatedtotal=\count446
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+)) (./titlepage.sty)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+ (.latexmk/kt1.aux)
+\openout1 = `kt1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Info: Redefining \th on input line 66.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 66.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count447
+)
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
+ (.latexmk/kt1.out) (.latexmk/kt1.out)
+\@outlinefile=\write4
+\openout4 = `kt1.out'.
+
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count448
+\scratchdimen=\dimen190
+\scratchbox=\box64
+\nofMPsegments=\count449
+\nofMParguments=\count450
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count451
+\MPscratchDim=\dimen191
+\MPnumerator=\count452
+\makeMPintoPDFobject=\count453
+\everyMPtoPDFconversion=\toks36
+) (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `kt1.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'kt1.bbl' found.
+ (.latexmk/kt1.bbl)
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
+ (/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (.latexmk/kt1.toc)
+\tf@toc=\write5
+\openout5 = `kt1.toc'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+<2dots.jpg, id=173, 1284.8pt x 503.8825pt>
+File: 2dots.jpg Graphic file (type jpg)
+<use 2dots.jpg>
+Package pdftex.def Info: 2dots.jpg  used on input line 94.
+(pdftex.def)             Requested size: 200.19054pt x 78.50847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--102
+
+ []
+
+[2 <./2dots.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+eus on input line 127.
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/amsfonts/ueus.fd
+File: ueus.fd 2013/01/14 v3.01 Euler Script
+)
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
+
+ []
+
+[3]
+Overfull \hbox (18.68063pt too wide) in paragraph at lines 190--191
+[][]\T2A/cmr/bx/n/10 Definition 5. []$[]\OML/cmm/m/it/10 X[]tX[]t \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 d\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y\OT1/cmr/m/n/10 )$ 
+ []
+
+<3dots.jpg, id=204, 1284.8pt x 324.21124pt>
+File: 3dots.jpg Graphic file (type jpg)
+<use 3dots.jpg>
+Package pdftex.def Info: 3dots.jpg  used on input line 200.
+(pdftex.def)             Requested size: 200.19054pt x 50.5144pt.
+<mfunc3dots.jpg, id=205, 1284.8pt x 870.25125pt>
+File: mfunc3dots.jpg Graphic file (type jpg)
+<use mfunc3dots.jpg>
+Package pdftex.def Info: mfunc3dots.jpg  used on input line 201.
+(pdftex.def)             Requested size: 175.17244pt x 118.64738pt.
+[4 <./3dots.jpg> <./mfunc3dots.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--236
+
+ []
+
+
+Overfull \hbox (4.16556pt too wide) detected at line 238
+[]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 E\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 < \OMS/cmsy/m/n/10 1[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--289
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--328
+
+ []
+
+<cicles_glued_by_vertex_wrong.png, id=230, 894.34125pt x 355.3275pt>
+File: cicles_glued_by_vertex_wrong.png Graphic file (type png)
+<use cicles_glued_by_vertex_wrong.png>
+Package pdftex.def Info: cicles_glued_by_vertex_wrong.png  used on input line 335.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+<cicles_glued_by_vertex_right.png, id=232, 894.34125pt x 355.3275pt>
+File: cicles_glued_by_vertex_right.png Graphic file (type png)
+<use cicles_glued_by_vertex_right.png>
+Package pdftex.def Info: cicles_glued_by_vertex_right.png  used on input line 338.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+[6 <./cicles_glued_by_vertex_wrong.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 354--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+
+ []
+
+[7 <./cicles_glued_by_vertex_right.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 441.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leqslant' on input line 441.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 441.
+
+<interval_exp.png, id=255, 177.66376pt x 69.25874pt>
+File: interval_exp.png Graphic file (type png)
+<use interval_exp.png>
+Package pdftex.def Info: interval_exp.png  used on input line 463.
+(pdftex.def)             Requested size: 100.09526pt x 39.02135pt.
+[8]
+<interval_plot.png, id=266, 894.34125pt x 355.3275pt>
+File: interval_plot.png Graphic file (type png)
+<use interval_plot.png>
+Package pdftex.def Info: interval_plot.png  used on input line 472.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+<bundle1_exp.png, id=267, 127.22531pt x 164.86594pt>
+File: bundle1_exp.png Graphic file (type png)
+<use bundle1_exp.png>
+Package pdftex.def Info: bundle1_exp.png  used on input line 481.
+(pdftex.def)             Requested size: 75.06953pt x 97.28262pt.
+<bundle2_exp.png, id=268, 127.22531pt x 202.50656pt>
+File: bundle2_exp.png Graphic file (type png)
+<use bundle2_exp.png>
+Package pdftex.def Info: bundle2_exp.png  used on input line 482.
+(pdftex.def)             Requested size: 75.06953pt x 119.49327pt.
+<comb_bundle1.png, id=269, 274.77657pt x 196.48407pt>
+File: comb_bundle1.png Graphic file (type png)
+<use comb_bundle1.png>
+Package pdftex.def Info: comb_bundle1.png  used on input line 483.
+(pdftex.def)             Requested size: 150.14671pt x 107.36801pt.
+<comb_bundle2.png, id=270, 296.60812pt x 196.48407pt>
+File: comb_bundle2.png Graphic file (type png)
+<use comb_bundle2.png>
+Package pdftex.def Info: comb_bundle2.png  used on input line 484.
+(pdftex.def)             Requested size: 150.14671pt x 99.46501pt.
+<comb_bundle_plot.png, id=271, 894.34125pt x 355.3275pt>
+File: comb_bundle_plot.png Graphic file (type png)
+<use comb_bundle_plot.png>
+Package pdftex.def Info: comb_bundle_plot.png  used on input line 495.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+ [9 <./interval_exp.png> <./interval_plot.png> <./bundle1_exp.png> <./bundle2_exp.png> <./comb_bundle1.png> <./comb_bundle2.png>]
+<cicle_exp.png, id=282, 172.39406pt x 161.85469pt>
+File: cicle_exp.png Graphic file (type png)
+<use cicle_exp.png>
+Package pdftex.def Info: cicle_exp.png  used on input line 502.
+(pdftex.def)             Requested size: 100.09526pt x 93.97704pt.
+<cycle_plot.png, id=283, 901.3675pt x 355.3275pt>
+File: cycle_plot.png Graphic file (type png)
+<use cycle_plot.png>
+Package pdftex.def Info: cycle_plot.png  used on input line 513.
+(pdftex.def)             Requested size: 500.484pt x 197.29584pt.
+<cicle_tree1_exp.png, id=284, 229.60782pt x 173.14688pt>
+File: cicle_tree1_exp.png Graphic file (type png)
+<use cicle_tree1_exp.png>
+Package pdftex.def Info: cicle_tree1_exp.png  used on input line 520.
+(pdftex.def)             Requested size: 100.09526pt x 75.48209pt.
+<cicle_tree2_exp.png, id=285, 229.60782pt x 187.45032pt>
+File: cicle_tree2_exp.png Graphic file (type png)
+<use cicle_tree2_exp.png>
+Package pdftex.def Info: cicle_tree2_exp.png  used on input line 521.
+(pdftex.def)             Requested size: 100.09526pt x 81.71756pt.
+ [10 <./comb_bundle_plot.png> <./cicle_exp.png> <./cycle_plot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
+
+ []
+
+<2cicles_v_exp.png, id=293, 222.07968pt x 190.46156pt>
+File: 2cicles_v_exp.png Graphic file (type png)
+<use 2cicles_v_exp.png>
+Package pdftex.def Info: 2cicles_v_exp.png  used on input line 538.
+(pdftex.def)             Requested size: 150.14671pt x 128.76814pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+
+ []
+
+<2cicles_e_exp.png, id=294, 223.58531pt x 178.41656pt>
+File: 2cicles_e_exp.png Graphic file (type png)
+<use 2cicles_e_exp.png>
+Package pdftex.def Info: 2cicles_e_exp.png  used on input line 556.
+(pdftex.def)             Requested size: 150.14671pt x 119.81615pt.
+[11 <./cicle_tree1_exp.png> <./cicle_tree2_exp.png> <./2cicles_v_exp.png> <./2cicles_e_exp.png>]
+<cicles_glued_by_edge.png, id=303, 894.34125pt x 355.3275pt>
+File: cicles_glued_by_edge.png Graphic file (type png)
+<use cicles_glued_by_edge.png>
+Package pdftex.def Info: cicles_glued_by_edge.png  used on input line 565.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--569
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--589
+
+ []
+
+<flower_exp.png, id=304, 255.95625pt x 239.39438pt>
+File: flower_exp.png Graphic file (type png)
+<use flower_exp.png>
+Package pdftex.def Info: flower_exp.png  used on input line 597.
+(pdftex.def)             Requested size: 150.14671pt x 140.43051pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--602
+
+ []
+
+[12 <./cicles_glued_by_edge.png> <./flower_exp.png>]
+<3cicles_e_exp.png, id=311, 234.8775pt x 168.63pt>
+File: 3cicles_e_exp.png Graphic file (type png)
+<use 3cicles_e_exp.png>
+Package pdftex.def Info: 3cicles_e_exp.png  used on input line 616.
+(pdftex.def)             Requested size: 150.14671pt x 107.79674pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--621
+
+ []
+
+<3cycles1edge_plot.png, id=312, 904.37875pt x 355.3275pt>
+File: 3cycles1edge_plot.png Graphic file (type png)
+<use 3cycles1edge_plot.png>
+Package pdftex.def Info: 3cycles1edge_plot.png  used on input line 626.
+(pdftex.def)             Requested size: 500.484pt x 196.63437pt.
+<3cicles_2e_exp.png, id=313, 325.96782pt x 182.18062pt>
+File: 3cicles_2e_exp.png Graphic file (type png)
+<use 3cicles_2e_exp.png>
+Package pdftex.def Info: 3cicles_2e_exp.png  used on input line 640.
+(pdftex.def)             Requested size: 200.19054pt x 111.8889pt.
+[13 <./3cicles_e_exp.png> <./3cycles1edge_plot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 643--645
+
+ []
+
+<3cycles2edges_plot.png, id=321, 894.34125pt x 355.3275pt>
+File: 3cycles2edges_plot.png Graphic file (type png)
+<use 3cycles2edges_plot.png>
+Package pdftex.def Info: 3cycles2edges_plot.png  used on input line 650.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+<3cicles_3e_exp.png, id=322, 197.98969pt x 201.00093pt>
+File: 3cicles_3e_exp.png Graphic file (type png)
+<use 3cicles_3e_exp.png>
+Package pdftex.def Info: 3cicles_3e_exp.png  used on input line 664.
+(pdftex.def)             Requested size: 150.14671pt x 152.43105pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--669
+
+ []
+
+[14 <./3cicles_2e_exp.png> <./3cycles2edges_plot.png> <./3cicles_3e_exp.png>]
+<3cycles3edges_plot.png, id=330, 894.34125pt x 355.3275pt>
+File: 3cycles3edges_plot.png Graphic file (type png)
+<use 3cycles3edges_plot.png>
+Package pdftex.def Info: 3cycles3edges_plot.png  used on input line 675.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+<random_exp.png, id=331, 256.70906pt x 222.8325pt>
+File: random_exp.png Graphic file (type png)
+<use random_exp.png>
+Package pdftex.def Info: random_exp.png  used on input line 689.
+(pdftex.def)             Requested size: 200.19054pt x 173.77464pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--694
+
+ []
+
+<random_plot.png, id=332, 894.34125pt x 355.3275pt>
+File: random_plot.png Graphic file (type png)
+<use random_plot.png>
+Package pdftex.def Info: random_plot.png  used on input line 700.
+(pdftex.def)             Requested size: 500.484pt x 198.84648pt.
+[15 <./3cycles3edges_plot.png> <./random_exp.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
+
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 725.
+<too_high_t.png, id=341, 900.36375pt x 355.3275pt>
+File: too_high_t.png Graphic file (type png)
+<use too_high_t.png>
+Package pdftex.def Info: too_high_t.png  used on input line 750.
+(pdftex.def)             Requested size: 500.484pt x 197.51813pt.
+[16 <./random_plot.png>]
+<convergence.png, id=351, 614.295pt x 443.6575pt>
+File: convergence.png Graphic file (type png)
+<use convergence.png>
+Package pdftex.def Info: convergence.png  used on input line 759.
+(pdftex.def)             Requested size: 300.29344pt x 216.87958pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--771
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--785
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--792
+
+ []
+
+[17 <./too_high_t.png> <./convergence.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 793--796
+
+ []
+
+<many_terms.jpg, id=360, 1284.8pt x 250.9375pt>
+File: many_terms.jpg Graphic file (type jpg)
+<use many_terms.jpg>
+Package pdftex.def Info: many_terms.jpg  used on input line 805.
+(pdftex.def)             Requested size: 400.38872pt x 78.19951pt.
+<func_plot.png, id=361, 455.301pt x 339.669pt>
+File: func_plot.png Graphic file (type png)
+<use func_plot.png>
+Package pdftex.def Info: func_plot.png  used on input line 806.
+(pdftex.def)             Requested size: 250.24199pt x 186.68895pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--816
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--818
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--828
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 829.
+(/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [18 <./many_terms.jpg> <./func_plot.png>] [19] (.latexmk/kt1.aux)
+Package rerunfilecheck Info: File `kt1.out' has not changed.
+(rerunfilecheck)             Checksum: 157E1E89A5F1C9165996B99A43A3B3CC;4989.
+Package logreq Info: Writing requests to 'kt1.run.xml'.
+\openout1 = `kt1.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23173 strings out of 479209
+ 404817 string characters out of 5861772
+ 1139787 words of memory out of 5000000
+ 40771 multiletter control sequences out of 15000+600000
+ 485196 words of font info for 62 fonts, out of 8000000 for 9000
+ 735 hyphenation exceptions out of 8191
+ 83i,10n,91p,736b,1802s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmmi5.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmmi7.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmr5.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/cm/cmsy7.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/euler/eusm10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/euler/eusm5.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/euler/eusm7.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/amsfonts/symbols/msam10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combi
+ned-2021/share/texmf/fonts/type1/public/amsfonts/symbols/msbm10.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></nix/store/f4n86zraswrbb0q4hcdkfgbqi3b8cqsd-texlive-combined-2021/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on .latexmk/kt1.pdf (19 pages, 1003420 bytes).
+PDF statistics:
+ 516 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 417 words of extra memory for PDF output out of 10000 (max. 10000000)
+
